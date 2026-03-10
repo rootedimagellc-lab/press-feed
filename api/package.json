@@ -2,6 +2,7 @@
   "name": "press-feed",
   "version": "1.0.0",
   "dependencies": {
-    "googleapis": "^126.0.1"
+    "googleapis": "^126.0.1",
+    "mammoth": "^1.8.0"
   }
 }
